@@ -31,3 +31,5 @@ variable "dockerhub_password" {
   description = "Пароль DockerHub"
   sensitive   = true
 }
+
+
